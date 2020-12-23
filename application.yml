@@ -6,3 +6,6 @@ eureka:
       defaultZone: http://localhost:9100/eureka/
   instance:
     hostname: localhost
+
+cloud:
+  name: Endang
